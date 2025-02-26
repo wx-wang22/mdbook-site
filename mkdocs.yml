@@ -1,0 +1,8 @@
+site_name: wwx-Bioinfo  # 站点名称
+theme: material  # 主题设置为 Material
+docs_dir: src  # 文档目录位置 (您的 Markdown 文件位于 `src` 文件夹中)
+site_dir: site  # 发布的站点目录位置（可以忽略）
+
+nav:  # 导航设置
+  - Home: index.md  # 首页
+  - Chapter 1: chapter_1.md  # 章节1
