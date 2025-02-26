@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"SUMMARY/","title":"Summary","text":"<ul> <li>Chapter 1</li> </ul>"},{"location":"chapter_1/","title":"Chapter 1","text":"<p>hello</p>"}]}
